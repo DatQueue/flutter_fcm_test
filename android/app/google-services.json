@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1031626925457",
+    "project_id": "mere-project",
+    "storage_bucket": "mere-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031626925457:android:428a6ef651bcef79ad6630",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCprPWD-nUQLQ8LOFNCBuDnLX99iRcIPZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
